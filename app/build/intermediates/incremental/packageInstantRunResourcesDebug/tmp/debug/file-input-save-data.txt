@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Nov 21 16:12:55 KST 2018
+1.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\DaumPostcodeExample-master\\DaumPostcodeExample\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=search_address.html
+0.set=ASSET
+0.base=C\:\\Users\\Administrator\\AndroidStudioProjects\\DaumPostcodeExample-master\\DaumPostcodeExample\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+1.path=daum.html
